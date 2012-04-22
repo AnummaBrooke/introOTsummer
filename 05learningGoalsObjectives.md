@@ -1,6 +1,6 @@
 ## Learning Goals and Objectives:
 
-The Hebrew Bible is a *library*: diverse texts, written by many authors, with their competing claims, over the course of a millennium. The authors' *circumstances* varied enormously: from leadership to marginalization, from empire to occupation, from agriculture to urbanism, from exodus to exile. Its works are of several *literary genres*, each with its own functions and native institutions: chronicle, lament, myth, genealogy, riddle, dirge, cult legend, taunt song, didactic discourse, tribal boast tale, hymnody, and more.
+The Hebrew Bible is a *library*: diverse texts, written by many authors, with their competing claims, over the course of a millennium. The authors' *circumstances* varied enormously: from leadership to marginalization, from empire to occupation, from agriculture to urbanism, from exodus to exile. Its works are of several *literary genres*, each with its own functions and native institutions: chronicle, lament, myth, genealogy, riddle, dirge, cult legend, taunt song, didactic discourse, tribal boast tale, hymnody, and more. 
 
 ### Knowing: 
 
