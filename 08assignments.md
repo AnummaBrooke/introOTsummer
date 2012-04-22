@@ -8,7 +8,7 @@ Our weekly schedule is largely predictable. Each week will include 1) an individ
 
 * Each week, a few Exercises from the Stanley book will be made available.
 * By Thursday morning at 9:00 CT, choose and write one of the available Exercises. 
-* By the following Monday morning at 9:00 CT, write a Reply to each member of your Group, according to the instructions provided for such replies.
+* By the following Monday morning at 9:00 CT, write a Reply to each member of your Group, according to the instructions provided for such replies. 
 * Students taking a planned week away will need to accomplish this assignment ahead of time, and write their Replies on return.
 
 **Group Activity in Exegesis:**
