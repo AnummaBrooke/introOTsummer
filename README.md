@@ -1,9 +1,8 @@
 introOTsummer
 =============
-**Copyright:** I make this syllabus, and each of its files, available under a Creative Commons ["CC BY 3.0"][rlcc3] license: you may share, re-mix, and make commercial use of the work, but you must grant me attribution.
+**Copyright Brooke Lester 2012:** I make this syllabus, and each of its files, available under a Creative Commons ["Attribution CC BY 3.0"][rlcc3] license. This license lets others distribute, remix, tweak, and build upon my work, even commercially, as long as they credit me for the original creation.
 [rlcc3]: http://creativecommons.org/licenses/by/3.0/ 
 ***
-
 Introduction to the Old Testament (six weeks, online)
 ***
 # Introduction to the Old Testament (11-500x 2012)
