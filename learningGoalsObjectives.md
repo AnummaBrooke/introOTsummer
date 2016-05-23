@@ -15,9 +15,9 @@ Students will grow more closely familiar with:
 Students will:
 
 * demonstrate critical thinking about evidence;
-* construct and assess reasoned arguments. An "argument" is not a "fight," but rather a series of statements that, if assented to, support a concluding statement. 
-* distinguish between structured and unstructured questions. A structured questions has a single correct answer (known or unknown). For example, "When was the Exile? We know it was 586-539 B.C.E." An unstructured question is one for which more than one answer might be reasonably proposed (by use of evidence and an explicit line of reasoning). For example, "By what chain of events did Israel come to occupy the highlands of Canaan? There are several related proposals for this." Students agree that solutions to unstructured questions are not simply matters of unassailable personal preference, but are vulnerable to the crucible of reasoned critique.
+* construct and assess reasoned arguments. An "argument" is not a "fight," but rather a series of statements that, if assented to, support a concluding statement.
+* distinguish in practice between questions exegetical ("what the text _meant_ to its author") and hermeneutical ("what might the text _mean_ to later readers").
 
 ### Being: 
 
-Our shared goal is to grow in our role as responsibly informed, fearless researchers and conversation partners in biblical studies.
+Our shared goal is to grow in our role as responsibly informed, fearless researchers and conversation partners in critical biblical studies.
